@@ -1,9 +1,9 @@
-# Test
+# My Awesome Test
 
 Basic test file.
 
-## Boring test
-Some text.
+## A nice test
+Sometimes boring.
 
 ## The End
 QED
